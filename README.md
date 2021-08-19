@@ -1,10 +1,16 @@
-### Hi there 👋
 
-<!--
-**pengfeigao/pengfeigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :tada: Hello World
 
+🌱 I'm trying to grow up
+
+<img src="https://github-readme-stats.vercel.app/api?username=pengfeigao&show_icons=true&theme=default" />
+<!-- <img align="left" src="https://github-readme-stats-a.vercel.app/api/top-langs/?username=pengfeigao&layout=compact" /> -->
+<!-- <img align="left" src="https://github-readme-stats-a.vercel.app/api/top-langs/?username=pengfeigao" />
+
+
+
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
