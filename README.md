@@ -5,8 +5,8 @@
 🌱 I'm trying to grow up
 
 <img src="https://github-readme-stats.vercel.app/api?username=pengfeigao&show_icons=true&theme=default" />
-<!-- <img align="left" src="https://github-readme-stats-a.vercel.app/api/top-langs/?username=pengfeigao&layout=compact" /> -->
-<!-- <img align="left" src="https://github-readme-stats-a.vercel.app/api/top-langs/?username=pengfeigao" />
+<img align="right" src="https://github-readme-stats-a.vercel.app/api/top-langs/?username=pengfeigao&layout=compact" />
+<!-- <img align="left" src="https://github-readme-stats-a.vercel.app/api/top-langs/?username=pengfeigao" /> -->
 
 
 
